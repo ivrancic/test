@@ -8,7 +8,7 @@ from db import db
 
 import models
 
-# Komentra
+
 from resources.users import blp as UserBlueprint
 from resources.item import blp as ItemBlueprint
 from resources.store import blp as StoreBlueprint
